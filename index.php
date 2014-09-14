@@ -145,6 +145,6 @@
 			<input type="submit" value="Speichern">
 		</form>
 		<br/>
-		<button onclick="addRow('mot');">Zeile hinzufügen</button>
+		<button onclick="addRow('mot');">Zeile hinzufügen</button> //Kommentar
 	</body>
 </html>
